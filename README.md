@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LeanIsaac
 - 👀 Estudiante de la UTN
+- 📚 carrera: Tecnico Superior En Programación
 - 🌱 I’m currently learning C, Js
-- 📫 Correo : leancarp09@gmail.com o marecosleandro@outlook.com
+- 📫 Correo : leancarp09@gmail.com - marecosleandro@outlook.com
 
 <!---
 LeanIsaac/LeanIsaac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
