@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LeanIsaac
 - 👀 Estudiante de la UTN
 - 📚 carrera: Tecnico Superior En Programación
-- 🌱 I’m currently learning C, Js
+- 🌱 I’m currently learning C, Js 
+- 📚 IDE: eclipce
 - 📫 Correo : leancarp09@gmail.com - marecosleandro@outlook.com
 
 <!---
