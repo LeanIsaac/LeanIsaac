@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Correo : leancarp09@gmail.com - marecosleandro@outlook.com
 
-### Languajes
+# Languajes
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
