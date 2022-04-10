@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LeanIsaac
 - 👀 Estudiante de la UTN
 - 📚 carrera: Tecnico Superior En Programación
-- 🌱 I’m currently learning C, Js 
 - 📚 IDE: eclipce
 - 📫 Correo : leancarp09@gmail.com - marecosleandro@outlook.com
 
@@ -19,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![eclipce](https://javadesde0.com/wp-content/uploads/icono-eclipse-java-ide.png)
 
 
 
