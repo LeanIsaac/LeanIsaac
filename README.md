@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ### carrera: Tecnico Superior En Programación
 
-###Correo : leancarp09@gmail.com - marecosleandro@outlook.com
+### Correo : leancarp09@gmail.com - marecosleandro@outlook.com
 
 ### Languages
 
