@@ -10,7 +10,7 @@ LeanIsaac/LeanIsaac is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
+    <img src="https://i0.wp.com/cinde.es/blog/wp-content/uploads/2017/10/giphy.gif?resize=500%2C281">
 </p>
 
 <a href="https://github-readme-stats.vercel.app/api?username=m0rp43us&count_private=true&show_icons=true&theme=chartreuse-dark">
