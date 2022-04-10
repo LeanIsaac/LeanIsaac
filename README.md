@@ -3,7 +3,7 @@ LeanIsaac/LeanIsaac is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <p align='center'>
-    <img src="https://i0.wp.com/cinde.es/blog/wp-content/uploads/2017/10/giphy.gif?resize=500%2C281">
+    <img src="https://media.giphy.com/media/3o7520JM4Eah9ntP2g/giphy.gif">
 </p>
 
 ### Estudiante de la UTN
@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Correo : leancarp09@gmail.com - marecosleandro@outlook.com
 
-### Languages
+### Languajes
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
