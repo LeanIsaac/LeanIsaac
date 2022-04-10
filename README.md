@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @LeanIsaac
 - 👀 Estudiante de la UTN
 - 📚 carrera: Tecnico Superior En Programación
 - 📫 Correo : leancarp09@gmail.com - marecosleandro@outlook.com
@@ -19,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 📚 IDE: eclipce
+### 📚 IDE: eclipce
 ![eclipce](https://javadesde0.com/wp-content/uploads/icono-eclipse-java-ide.png)
 
 
