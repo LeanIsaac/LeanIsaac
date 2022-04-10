@@ -6,7 +6,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 --->
 
-![](https://media.giphy.com/media/3o7520JM4Eah9ntP2g/giphy.gif)
+![](https://www.cursosenvideos.com/wp-content/uploads/2020/11/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
+
 ### Estudiante de la UTN
 
 ### carrera: Tecnico Superior En Programación
