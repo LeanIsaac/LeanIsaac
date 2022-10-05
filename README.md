@@ -22,6 +22,9 @@ You can click the Preview link to take a look at your changes.
 ### 📚 IDE: eclipce
 ![eclipce](https://javadesde0.com/wp-content/uploads/icono-eclipse-java-ide.png)
 
+### Technologies
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 🔥 Github
 
