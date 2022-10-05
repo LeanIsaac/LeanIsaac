@@ -9,37 +9,47 @@ You can click the Preview link to take a look at your changes.
 </p>
 --->
 <p align='center'>
-<img src="https://media.giphy.com/media/3o7520JM4Eah9ntP2g/giphy.gif">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-### Estudiante de la UTN
+<div align=center>
+  <h3><b>Estudiante de la UTN</b></h3>
+</div>
 
-## carrera: Tecnico Superior En Programación
+<div align=center>
+<h3><b>carrera: Tecnico Superior En Programación</b></h3>
+</div>
 
-## Correo : leancarp09@gmail.com 
-
-## Languajes
+<div align=center>
+<h3><b>Correo : leancarp09@gmail.com </b></h3>
+</div>
+<br>
+<div align=center>
+<h3><b> Languajes</b></h3>
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" />
+</div>
 
-
-## Technologies
+<br>
+<div align=center>
+<h3><b> Technologies </b></h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
-
+</div>
+<!--
 <div align=center>
   <h3><b>📍 Contador de Visitas</b></h3>
 </div>
-
+-->
+<br>
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/LeanIssac/count.svg" />  
 </p>
-
 
  <div align=center>
     
