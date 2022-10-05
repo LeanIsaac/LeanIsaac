@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
 
 <div align=center>
-  <h3><b>📍 Contador de Visitantes</b></h3>
+  <h3><b>📍 Contador de Visitas</b></h3>
 </div>
 
 <p align="center" >   
