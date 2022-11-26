@@ -11,18 +11,19 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
-
+<!---
 <div align=center>
   <h3><b>Estudiante de la UTN</b></h3>
 </div>
-
+--->
 <div align=center>
-<h3><b>carrera: Tecnico Superior En Programación</b></h3>
+<h3><b>Titulo: Tecnico Superior En Programación</b></h3>
 </div>
 
 <div align=center>
-<h3><b>Correo : leancarp09@gmail.com </b></h3>
+<h3><b>Email: leancarp09@gmail.com </b></h3>
 </div>
+
 <br>
 <div align=center>
 <h3><b> Languajes</b></h3>
