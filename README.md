@@ -1,7 +1,5 @@
 <h1><i>Hi😃, I'm Lean. Welcome to my profile🤠</i></h1>
-
  <br>
-
 <h2 align="left">Languages:</h3>
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
