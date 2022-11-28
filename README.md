@@ -1,7 +1,6 @@
 <h1><i>Hi😃, I'm Lean. Welcome to my profile🤠</i></h1>
 
  <br>
--  Currently at university I am learning C
 
 <h2 align="left">Languages:</h3>
 
