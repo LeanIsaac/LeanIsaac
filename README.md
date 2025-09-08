@@ -30,7 +30,4 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeanIsaac&show_icons=true&theme=radical&locale=en&layout=compact" alt="LeanIsaac" />
 </p>
-<br>
-<p align="left" >   
-  <img src="https://profile-counter.glitch.me/LeanIssac/count.svg" />  
-</p>
+
