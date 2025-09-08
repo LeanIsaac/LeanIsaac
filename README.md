@@ -34,5 +34,3 @@
 <p align="left" >   
   <img src="https://profile-counter.glitch.me/LeanIssac/count.svg" />  
 </p>
-
-![Snake animation](https://github.com/Al3ncar/Al3ncar/blob/output/github-contribution-grid-snake.svg) 
